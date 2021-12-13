@@ -54,7 +54,7 @@ Feel free to contact us if you have problem downloading the traces.
 ### Choice of traces for different evaluations 
 For different evaluation purposes, we recommend the following clusters/workloads 
 
-* **miss ratio related (admission, eviction)**: cluster52, cluster17 (low miss ratio), cluster18 (low miss ratio), cluster24, cluster44, cluster45, cluster29. 
+* **miss ratio related (admission, eviction)**: cluster52, cluster27, cluster17 (low miss ratio), cluster18 (low miss ratio), cluster24, cluster44, cluster45, cluster29. 
 
 
 * **write-heavy workloads**: cluster12, cluster15, cluster31, cluster37. 
